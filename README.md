@@ -1,7 +1,7 @@
 # Súly Napló
 > Mini gyakorló projekt
 
-Hozzátartozó magyarázó videó elérhető a YouTube-on: https://youtu.be/Ms6VEA5bTQQ
+Hozzátartozó magyarázó videó elérhető a YouTube-on: https://youtu.be/HmvjsJrx1N4
 
 ## Követelmények
 - Űrlap: Adott időpontokhoz súly felvétele
