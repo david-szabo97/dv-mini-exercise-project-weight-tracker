@@ -48,3 +48,7 @@ Hozzátartozó magyarázó videó elérhető a YouTube-on: https://youtu.be/Hmvj
 
 ## Megoldások
 > Megcsináltad már ezt a feladatot és szeretnéd kitenni ide? Nyiss egy issue-t!
+
+[@belaarany](https://github.com/belaarany): [Typescript + React + Material UI](https://github.com/belaarany/weight-tracker-exercise)
+
+[@zilhair](https://github.com/zilahir): [React + Redux](https://github.com/belaarany/weight-tracker-exercise)
